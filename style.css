@@ -46,6 +46,11 @@ body{
 	margin: 20px 0;
 	font-weight: 500;
 }
+.container h2{
+	font-sizing:12px;
+	font-weight:200;
+	margin:10px auto;
+}
 #imgBox{
 	width: 200px;
 	border-radius: 5px;
